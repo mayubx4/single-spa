@@ -19,8 +19,8 @@ Ensure the following are installed on your system:
 ### Installation
 1. Clone the repository containing the `root-app`, `app1`, and `app2` projects.
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mayubx4/single-spa.git
+   cd single-spa
    ```
 
 2. Install dependencies for each project:
